@@ -1,0 +1,4 @@
+Привіт, це тестовий файл. Він містить кілька речень.
+Hello, this is a test file. It contains several sentences.
+Програмування — це чудово!
+Programming is great!
